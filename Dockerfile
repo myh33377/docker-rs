@@ -1,2 +1,2 @@
-from nextcloud
-expose 8000
+from rocker/tidyverse
+expose 8787
